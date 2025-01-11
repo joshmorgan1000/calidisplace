@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <form method="POST" action="">
         <div class="mb-3">
-            <label for="email" class="form-label">Email:</label>
+            <label for="email" class="form-label">Email: (WARNING: this email address will be advertised to the world)</label>
             <input 
                 type="email" 
                 name="email" 

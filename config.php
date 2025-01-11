@@ -5,7 +5,7 @@
 $db_host = 'localhost';
 $db_name = 'u768960383_displaced';
 $db_user = 'u768960383_displaced';
-$db_pass = 'Displaced123*()no';
+$db_pass = '';
 
 // DSN for PDO
 $dsn = "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4";

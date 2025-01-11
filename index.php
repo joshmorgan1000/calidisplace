@@ -54,15 +54,10 @@ require_once 'init.php';
             <a href="offer_home.php" class="btn btn-primary m-2">Offer a Home</a>
             <a href="manage_listings.php" class="btn btn-info m-2">Manage Listings</a>
         <?php else: ?>
-            <a href="login.php" class="btn btn-secondary m-2">Login to Offer a Home</a>
+            <a href="login.php" class="btn btn-secondary m-2">Login to Offer a Home (Register Top Right)</a>
         <?php endif; ?>
     </div>
 </div>
-
-<!-- Footer -->
-<footer class="bg-dark text-white text-center py-3">
-  <p class="mb-0">&copy; <?php echo date('Y'); ?> Cali Fires Shelter Assistance</p>
-</footer>
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script> 
