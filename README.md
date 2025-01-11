@@ -1,0 +1,1 @@
+Please feel free to duplicate and host elsewhere
